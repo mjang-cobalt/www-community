@@ -11,8 +11,9 @@ tags: risk rating methodology
 
 # DISCLAIMER 
 
-Over the years there has be lots of [debate]({{ site.baseurl }}/misc/rrm_debate) about the OWASP Risk Rating Methodology and the weighting of Threat Actor Skill levels.
-There are other more mature, popular, or well established Risk Rating Methodologies that can be followed:
+We've had plenty of [debate]({{ site.baseurl }}/misc/rrm_debate) about the OWASP Risk Rating Methodology, as well as how to weigh Threat Actor Skill levels.
+
+Alternatively, you can also follow other more mature, popular, or well established Risk Rating Methodologies:
 
 - [NIST 800-30 - Guide for Conducting Risk Assessments](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final)
 - [Government of Canada - Harmonized TRA Methodology](https://cyber.gc.ca/en/guidance/harmonized-tra-methodology-tra-1)
@@ -20,7 +21,7 @@ There are other more mature, popular, or well established Risk Rating Methodolog
     - [Risk Assessment Summary](https://infosec.mozilla.org/guidelines/assessing_security_risk)
     - [Rapid Risk Assessment (RRA)](https://infosec.mozilla.org/guidelines/risk/rapid_risk_assessment.html)
 
-Alternatively you may with the review information about Threat Modeling, as that may be a better fit for your app or organization:
+For Threat Modeling, examine the following options. You may find one that's a better fit for your app or organization:
 
 - <https://owasp.org/www-community/Threat_Modeling>
 - <https://owasp.org/www-community/Application_Threat_Modeling>
